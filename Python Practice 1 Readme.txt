@@ -1,0 +1,1 @@
+This is a short Python program exploring assigning variable values, using if, elif, and else statements, and allowing user inputs. The story is original. Please do not copy this code elsewhere except for personal use. 
